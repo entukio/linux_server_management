@@ -5,5 +5,8 @@ How to manage Linux VPS
   ssh user@hostname
   
 SSH connection with a remote server in VSCode: https://code.visualstudio.com/docs/remote/ssh
+
+#Install python on Linux:
+sudo apt install python3-pip
   
   
