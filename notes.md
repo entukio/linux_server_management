@@ -9,4 +9,8 @@ SSH connection with a remote server in VSCode: https://code.visualstudio.com/doc
 #Install python on Linux:
 sudo apt install python3-pip
   
+#restart Linux server:
+sudo reboot
+
+
   
